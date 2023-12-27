@@ -1,0 +1,96 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(155, 155, 155);
+}
+.full{
+    display: flex;
+    background-color: rgb(251, 253, 253);
+    margin-top: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+.hade{
+    font-size: 250%;
+    color: red;
+   
+}
+.one{
+text-transform: uppercase;
+}
+.two{
+    margin-top: 2%;
+}
+.three{
+    margin-top: 2%;
+}
+.twobox{
+    display: flex;
+    margin-top: 3%;
+    
+   
+}
+.email{
+    border: solid black ;
+    font-size: 150%;
+display: flex  
+}
+
+.icon{
+    padding: 16px;
+}
+.phone{
+    border: solid black ;
+    font-size: 150%;
+    display: flex;
+}
+
+.name{
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+
+   
+    
+}
+
+
+.table{
+    background-color: rgb(231, 238, 238);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    border-radius: 8%;
+    margin-left: 5%;
+    
+    
+}
+.emailtable{
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+}
+.porson{
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+.date{
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+.booknow{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
